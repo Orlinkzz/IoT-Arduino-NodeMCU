@@ -1,7 +1,12 @@
-Cek Alamat I2C/
-HTTPSRequest/
-libraries/
-NodeMCU/
-NodeMCU1/
-Suhu1/
-Suhu/
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
